@@ -789,6 +789,8 @@ Tダガースピン,3115487272,Special,3 gear
 サテライトエイム,2273181786,PA,1 gear
 サテライトエイム,2273181787,PA,2 gear
 サテライトエイム,2273181784,PA,3 gear
+サテライトエイム,1564855959,PA,Satellite Aim Battle Arena (hit 1)
+サテライトエイム,3894802376,PA,Satellite Aim Battle Arena (hit 2)
 エルダーリベリオン,1108337397,PA,Elder Rebellion (5 hits) 0 gear
 エルダーリベリオン,1108337396,PA,1 gear
 エルダーリベリオン,1108337395,PA,2 gear
@@ -1238,11 +1240,15 @@ HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong 
 飛斬翔刃,3065779197,Special,斬撃(フォームシリーズ)(Weapon Potential)
 飛斬翔刃,3065779131,Special,斬撃(フォームシリーズ)(Weapon Potential)
 飛斬翔刃,3065778236,Special,斬撃(フォームシリーズ)(Weapon Potential)
+飛斬翔刃,1195472353,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195472288,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,1195474500,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
 未知なる魔杖,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (weapon Potential)
 DS かまいたち(クヴェレ),1054020189,Special,14ダブルセイバークヴェレスカーレット
 DS かまいたち(クヴェレ),1054020252,Special,14ダブルセイバークヴェレスカーレット
 DS かまいたち(クヴェレ),1054023161,Special,14ダブルセイバークヴェレスカーレット
 古の針散弾,2482321781,Special,14アサルトライフルスプレッドニードル
+古の針散弾,3918796978,Special,14アサルトライフルスプレッドニードル(ファントム)
 四連石榴,3191508501,Special,14ランチャーヤスミノコフ4000FJ
 四連石榴,3193149642,Special,14ランチャーヤスミノコフ4000FJ
 四連石榴,3193417863,Special,14ランチャーヤスミノコフ4000FJ
@@ -1255,6 +1261,15 @@ DS かまいたち(クヴェレ),1054023161,Special,14ダブルセイバーク�
 天の加護,2428138007,Special,14ジブリル
 白銀の輝焔,2711351862,Special,Bright Silver Flame (Exacrimav) (Weapon Potential)
 白銀の輝焔,923779696,Special,Bright Silver Flame (Phantom) (Exacrimav) (Weapon Potential)
+疾駆奮迅,3438460459,Special,Torrential Dash (Stopping dash wave) (RA Stinger) (Weapon Potential)
+疾駆奮迅,3333338057,Special,Torrential Dash (Dash collision) (RA Stinger) (Weapon Potential)
+煉獄紅蓮,1353602257,Special,Agonizing Blaze (Rengokuto Guren) (Weapon Potential)
+閃影の鎚撃,2547423209,Special,Luminecho Hammer (Acure Charis/Atus Charis) (Weapon Potential)
+閃影の弾撃,2255706962,Special,Luminecho Slug (Orgei Rancor) (Weapon Potential)
+閃影の斬撃,895846384,Special,Luminecho Guillotine (Orgei Malice) (Weapon Potential)
+変異の代償,3714671926,Special,Variating Redress (Genon series) (Weapon Potential)
+S1:賭死の撃,818692292,Special,S1: Reckless Strike (S-Class Special Ability)
+S4:累加追撃,99411394,Special,S4: Raising Pursuit(S-Class Special Ability)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
@@ -1280,6 +1295,15 @@ AIS フォトンブラスター,1460054769,Special,A.I.S cannon (フォトンブ
 AIS フォトンブリザード,4081218683,Special,A.I.S mob freezing attack (フォトンブリザード)
 AIS ウィークバスター,3298256598,Special,A.I.S Weak Bullet (ウィークバスター)
 AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール)
+AISV ソリッドバルカン,1164312683,AISV
+AISV ブレードラッシュ,858127000,AISV,A.I.S. Vega Blade Rush first
+AISV ブレードラッシュ,503978418,AISV,A.I.S. Vega Blade Rush second
+AISV ブレードラッシュ,3724116814,AISV,A.I.S. Vega Blade Rush third
+AISV ステアタ,2655531208,AISV,A.I.S. Vega Step Attack
+AISV マルチロックミサイル,383210274,AISV,A.I.S. Vega Multi-Lock Missiles 
+AISV カウンターシールド,2640906853,AISV,A.I.S. Vega Counter Shield
+AISV カウンターシールド,3968047485,AISV,A.I.S. Vega Counter Shield big
+AISV フォトンブラスター,1628689645,AISV,A.I.S. Vega Photon Blaster
 マナ速射砲,1913897098,Special,マナ速射砲
 ラコニウムソード,2235773608,Special,ラコニウムソード
 ラコニウムソード,2235773610,Special,ラコニウムソード
@@ -1455,3 +1479,5 @@ PTF(ロッド),2682739872
 呪斬怨魂,859457301,呪斬ガエンLv3 Ph 3rd phase
 呪斬怨魂,859457298,呪斬ガエンLv3 Ph 3rd phase
 呪斬怨魂,859457299,呪斬ガエンLv3 Ph 3rd phase
+インペリアルクリーヴ,3811494773,解式PA ソード
+インペリアルクリーヴ,2499265502,解式PA ソード
