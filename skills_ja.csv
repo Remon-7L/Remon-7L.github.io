@@ -1244,6 +1244,9 @@ HP吸収,893379015,Special,Vampiric Blade/Celestial Bullet/Megiverse all belong 
 飛斬翔刃,1195472353,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
 飛斬翔刃,1195472288,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
 飛斬翔刃,1195474500,Special,Dissipating Wave　(Rod?) (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2738251077,Special,Dissipating Wave (Etoile) first normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2924000350,Special,Dissipating Wave (Etoile) second normal attack (Form/Vades series) (Weapon Potential)
+飛斬翔刃,2029349838,Special,Dissipating Wave (Etoile) third normal attack (Form/Vades series) (Weapon Potential)
 未知なる魔杖,4139628318,Special,Mysterious Conjurer (Lavis Cannon) (weapon Potential)
 DS かまいたち(クヴェレ),1054020189,Special,14ダブルセイバークヴェレスカーレット
 DS かまいたち(クヴェレ),1054020252,Special,14ダブルセイバークヴェレスカーレット
@@ -1257,6 +1260,7 @@ DS かまいたち(クヴェレ),1054023161,Special,14ダブルセイバーク�
 追撃の輝弓,2512505424,Special,Auxiliary Dart (Radius Arca) (Weapon Potential)
 追撃の輝弓,2512505439,Special,Auxiliary Dart (Radius Arca) (Weapon Potential)
 天雷の飛翔剣,2924634920,Special,14DBユピテルトゥルス
+天雷の飛翔剣,2194522995,Special,Thundering Blades (Etoile) (Jupiter Tullus) (Weapon Potential)
 闇の一瞥,2270328498,Special,14タクトリュクロス・スタッフ
 避跳飛刃,2311811561,Special,Temporary name (Weapon Potential)
 天の加護,2428138007,Special,14ジブリル
@@ -1344,6 +1348,7 @@ DB通常攻撃(ルーサー),2743062721
 ヘヴィーハンマー,1393830765,ウォンドPA,フルチャージ
 未知なる魔杖,4139628288,潜在,ヘヴィーハンマー1段チャージ(ラヴィス＝カノン)
 未知なる魔杖,4139628319,潜在,ヘヴィーハンマーフルチャージ(ラヴィス＝カノン)
+未知なる魔杖,1919700754,Special,Mysterious Conjurer (Etoile) (Lavis Cannon) (Weapon Potential)
 レ・バーランツィア,950481737
 レ・バーランツィア,950479247
 レ・バーランツィア,4003740182
@@ -1494,19 +1499,24 @@ PTF(ロッド),2682739872
 テンペストレイド,2141090244,解式PA JB
 テンペストレイド,3659915973,解式PA JB
 テンペストレイド,3782877357,解式PA JB
-通常攻撃(Etセイバー),3919241663,1段目
-通常攻撃(Etセイバー),169524061,2段目
-通常攻撃(Etセイバー),3511369619,3段目
-通常攻撃(Etセイバー),601312782,1段目(空中)
-通常攻撃(Etセイバー),2524726786,2段目(空中)
+通常攻撃(EtDS),3919241663,1段目
+通常攻撃(EtDS),169524061,2段目
+通常攻撃(EtDS),3511369619,3段目
+通常攻撃(EtDS),601312782,1段目(空中)
+通常攻撃(EtDS),2524726786,2段目(空中)
 エンハンスアタック,2428433047
 エンハンスアタック,3674749665
 クイックテイク,3668847151
-ステアタ(Etセイバー),1877753403,ステアタ
+ステアタ(EtDS),1877753403,ステアタ
+スライドステアタ(EtDS),3668847214,スライドステアタ(スキル)
+ステップガード(EtDS),3668848108,ステップガード(スキル)
 ディフレクトコンボ,3703502919,1段目
 ディフレクトコンボ,1299126211,1_2段目
 ディフレクトコンボ,2505461367,2段目
 ディフレクトコンボ(カウンター),3703475948,カウンター
+ディフレクトコンボ(カウンター),1299131665,カウンター
+ディフレクトコンボ,3703475885,クイックテイク
+ディフレクトコンボ,1299131728,クイックテイク
 アブソリュートクエーサー,3023957695
 アブソリュートクエーサー,3023957886
 アブソリュートクエーサー,3023959320,後半
@@ -1555,6 +1565,7 @@ PTF(ロッド),2682739872
 通常攻撃(Etウォンド),4018085689,2段目
 通常攻撃(Etウォンド),4018085882,3段目
 ステアタ(Etウォンド),3968236707
+プロテクトリリース,1295321598,未検証(?)
 プロテクトリリース,3381519387
 プロテクトリリース,3381519386
 プロテクトリリース,3099099080
