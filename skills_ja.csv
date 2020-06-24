@@ -1,4 +1,4 @@
-﻿(comment),32,OvP20191218 - (エトワール追加後)
+﻿(comment),32,OvP20200622 - (弓解式後)
 通常攻撃(素手),3481186334,Melee,素手 first normal attack
 通常攻撃(素手),1578628668,Melee,素手 second normal attack
 通常攻撃(素手),888355388,Melee,素手 third normal attack
@@ -278,6 +278,7 @@ Enemy Thrown,2164805818,PA,beatdown
 バインドスルー,377627045,PA,バインドスルー slam
 グラップルチャージ,1615246036,PA,グラップルチャージ grapple
 グラップルチャージ,1667543020,PA,グラップルチャージ charge
+グラップルチャージ,1910262360,PA,Grapple Charge charge (grapple missed)
 ヘブンリーフォール,4142951253,PA,ヘブンリーフォール heaven
 ヘブンリーフォール,1713894514,PA,ヘブンリーフォール fall
 アザーサイクロン,1850125110,PA,アザーサイクロン grab
@@ -518,6 +519,8 @@ Tダガースピン,3115487272,Special,3 gear
 メテオフィスト,70519939,PA,MEGAFIST
 ハートレスインパクト,1169988911,PA,ハートレスインパクト part 1
 ハートレスインパクト,63569063,PA,ハートレスインパクト part 2
+フェイタルノックアウト,465516065,PA,フェイタルノックアウト
+フェイタルノックアウト,465515874,PA,フェイタルノックアウト 最終hit
 通常攻撃(カタナ),3146534752,Melee,Katana 1
 通常攻撃(カタナ),3146534691,Melee,Katana 2
 通常攻撃(カタナ),3146534882,Melee,Katana 3
@@ -658,6 +661,8 @@ Tダガースピン,3115487272,Special,3 gear
 バニッシュアロウ,348753019,PA,バニッシュアロウ
 ミリオンストーム,294264661,PA,ミリオンストーム
 チェイスアロウ,294264342,PA,チェイスアロウ
+セルリアンバリスタ,3760583070,PA,方向入力無し
+セルリアンバリスタ,3760583384,PA,方向入力有り
 通常攻撃(アサルトライフル),1856399071,Ranged,Rifle shot
 通常攻撃(アサルトライフル),220156466,Ranged,Rifle Diveroll shoot
 通常攻撃(ウィークバレット),713142898,Special,Weak bullet ヒット
@@ -690,8 +695,14 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(ランチャー),594270780,Ranged,Third
 通常攻撃(ランチャー),2731320054,Ranged,Dive roll shoot
 ミラージュショット,3433218069,Special,Mirage Shot (Ra skill)
+ミラージュショット,1226027508,Special,Mirage Shot 2nd attack in the combo (Ra skill)
+ミラージュショット,3074547700,Special,Mirage Shot 3rd attack in the combo (Ra skill)
 パニックショット,1201754534,Special,Panic Shot (Ra skill)
+パニックショット,4206984394,Special,Panic Shot 2nd attack in the combo (Ra skill)
+パニックショット,2212135647,Special,Panic Shot 3rd attack in the combo (Ra skill)
 ジェルンショット,2734794071,Special,Jellen Shot (Ra skill)
+ジェルンショット,904883424,Special,Jellen Shot 2nd attack in the combo (Ra skill)
+ジェルンショット,3536788021,Special,Jellen Shot 3rd attack in the combo (Ra skill)
 ディバインランチャー,2709160760,PA,ディバインランチャー
 ディバインランチャー 零式,1445952978,PA,uncharged
 ディバインランチャー 零式,1445953294,PA,charged
@@ -852,6 +863,8 @@ Tダガースピン,3115487272,Special,3 gear
 グリムバラージュ,1235843181,PA,1 gear
 グリムバラージュ,1235843180,PA,2 gear
 グリムバラージュ,1235843183,PA,3 gear
+カラミティバレット,1900182416,Special,Calamity Bullet hits
+カラミティバレット,1918289664,Special,Calamity Bullet final two hits
 通常攻撃(ジェットブーツ),3540874879,Melee,First Attack
 通常攻撃(ジェットブーツ),2778548652,Melee,Second Attack
 通常攻撃(ジェットブーツ),3614558463,Melee,Third Attack
@@ -1037,6 +1050,16 @@ Tダガースピン,3115487272,Special,3 gear
 レドランバースト,1282005173,PA,Ledran Burst 1-3 balls
 レドランバースト,1282005238,PA,Ledran Burst 4-7 balls
 レドランバースト,1282005047,PA,Ledran Burst 8 balls
+通常攻撃(グラス),3395240567,Melee,Glass normal attack
+グラスレーザー,848194963,PA,Glass Laser 2 lock-on
+グラスレーザー,848195026,PA,Glass Laser 3 lock-on
+グラスレーザー,848195090,PA,Glass Laser 4 lock-on
+グラススラッシュ,2731019914,PA,Glass Slash
+グラスマイン,2731019595,PA,Glass Mine
+グラスマイン,853221906,PA,Glass Mine DoT
+グラスバースト,1279678971,PA,Glass Burst 1-3 balls
+グラスバースト,1279678906,PA,Glass Burst 4-7 balls
+グラスバースト,1279679082,PA,Glass Burst 8 balls
 通常攻撃(ヒーローソード),2444771520,Melee,Hero Sword first normal attack,Hr
 通常攻撃(ヒーローソード),2444771715,Melee,Hero Sword second normal attack,Hr
 通常攻撃(ヒーローソード),2832347180,Melee,Hero Sword third normal attack first hit,Hr
@@ -1083,6 +1106,7 @@ Tダガースピン,3115487272,Special,3 gear
 ブランニュースター,2832005595,PA,Brand New Star,Hr
 ブランニュースター,1399183080,PA,Brand New Star after dodge,Hr
 ファイナルストーム,2832005530,PA,Final Storm,Hr
+ファイナルストーム,1399183806,PA,Final Storm final hit,Hr
 セカンドオブエッジ,2832005465,PA,Second Edge,Hr
 モーメントオブトリック,2832005400,PA,Moment Trick,Hr
 武器切り替え(ヒーローソード),2817683590,Melee,Switch to Sword,Hr
@@ -1278,8 +1302,13 @@ DS かまいたち(クヴェレ),1054023161,Special,14ダブルセイバーク�
 白虎の掟,1989470535,Special,Byakko Accordant (Shiho Byakko) (Weapon Potential)
 縛魂の斬閃,895229155,Special,Soulbound Guillotine =100% HP (Corrupted Spear Epitemia) (Weapon Potential)
 縛魂の斬閃,2876421265,Special,Soulbound Guillotine <100% HP (Corrupted Spear Epitemia) (Weapon Potential)
+黄金の聖紋,2248412976,Special,Golden Crest (Folgore Weben) (Weapon Potential)
+長銃の光渦,3420584169,Special,Carbine Vortex (Vortex Byde possibly the other Vortex) (Weapon Potential)
 S1:賭死の撃,818692292,Special,S1: Reckless Strike (S-Class Special Ability)
 S4:累加追撃,99411394,Special,S4: Raising Pursuit(S-Class Special Ability)
+S5:反撃鋭刃,1868089408,Special,S5: Hangeki Edge (S-Class Special Ability)
+S5:追射剛矢,4233010551,Special,S5: Auxiliary Arrow (normal) (S-Class Special Ability)
+S5:追射剛矢,4233010550,Special,S5: Auxiliary Arrow (after dodge) (S-Class Special Ability)
 Emperappy hug <3,2088559161,Special,Emperappy hug <3
 東京風ハンバーグ,585389849,Special,Tokyo Style Hamburger (Cuisine)
 磁雷針,2370429206,Special,Magnetic Needle (Skyscape areas)
