@@ -1,4 +1,4 @@
-﻿(comment),32,OvP20200622 - (弓解式後)
+﻿(comment),32,OvP2020091700 - (ラスター実装時)
 通常攻撃(素手),3481186334,Melee,素手 first normal attack
 通常攻撃(素手),1578628668,Melee,素手 second normal attack
 通常攻撃(素手),888355388,Melee,素手 third normal attack
@@ -1611,3 +1611,291 @@ PTF(ロッド),2682739872
 ブラックホールラプチャーFo,2286047593,持続ダメ
 ルミナスフレア,5834299
 ルミナスフレアFo,2338828957
+通常攻撃(Luフォメル),1824561262,Melee,Luster Fomel first normal attack
+通常攻撃(Luフォメル),1771344883,Melee,Luster second normal attack
+通常攻撃(Luフォメル),2314478622,Melee,Luster third normal attack
+通常攻撃(Luフォメル),1917552622,Melee,Luster Extra Attack (Lu skill)
+通常攻撃(Luフォメル),204848271,Melee,Luster normal attack hold
+通常攻撃(Luフォメル),1952842142,Melee,Luster normal attack hold no gear
+フォトンスピア,3274277101,Special,Luster Photon Spear
+ステアタ(Luフォメル),3286390190,Melee,Luster Step Attack
+Luカウンター(フォメル),4109993569,Special,Luster Step Counter (Lu skill)
+ステップガード(フォメル),3233723013,Special,Luster Step Guard forward (Lu skill)
+ステップガード(フォメル),3113325750,Special,Luster Step Guard backward (Lu skill)
+ステップスライド(フォメル),444545478,Special,Luster Step Slide forward (Lu skill)
+ステップスライド(フォメル),2207557530,Special,Luster Step Slide sideways (Lu skill)
+ステップスライド(フォメル),177981608,Special,Luster Step Slide backwards (Lu skill)
+イベイドシュート(フォメル),577561831,Ranged,Luster Weapon Action
+エンハンスシュート(フォメル),3988763798,Special,Luster Weapon Action charge 1 hits (Shoot Enhance) (Lu skill)
+エンハンスシュート(フォメル),1592178930,Special,Luster Weapon Action charge 1 finish (Shoot Enhance) (Lu skill)
+エンハンスシュート(フォメル),1592178867,Special,Luster Weapon Action charge 2 hits (Shoot Enhance) (Lu skill)
+エンハンスシュート(フォメル),3988763991,Special,Luster Weapon Action charge 2 finish (Shoot Enhance) (Lu skill)
+エンハンスシュート(フォメル),1592179056,Special,Luster Weapon Action charge 3 hits (Shoot Enhance) (Lu skill)
+エンハンスシュート(フォメル),3988763924,Special,Luster Weapon Action charge 3 finish (Shoot Enhance) (Lu skill)
+通常攻撃(Luフォメル),4099792656,Special,Luster Weapon Action into Step Attack
+フレシェット(フォメル),2611294785,PA,Luster Flechette stationary
+フレシェット(フォメル),1961649619,PA,Luster Flechette stationary hold
+フレシェット(フォメル),1465951479,PA,Luster Flechette direction
+フレシェット(フォメル),1692819076,PA,Luster Flechette direction hold hit
+フレシェット(フォメル),1692819269,PA,Luster Flechette direction hold final hit
+ブランドエクステンション(フォメル),558647481,PA,Luster Brand Extension stationary
+ブランドエクステンション(フォメル),720149043,PA,Luster Brand Extension stationary hold hits
+ブランドエクステンション(フォメル),720149490,PA,Luster Brand Extension stationary hold final hits
+ブランドエクステンション(フォメル),798845847,PA,Luster Brand Extension direction
+ブランドエクステンション(フォメル),4268540610,PA,Luster Brand Extension direction hold hits
+ブランドエクステンション(フォメル),4268540419,PA,Luster Brand Extension direction hold final hits
+スラッグスキャッター(フォメル),618844951,PA,Luster Slug Scatter stationary
+スラッグスキャッター(フォメル),326296474,PA,Luster Slug Scatter stationary hold
+スラッグスキャッター(フォメル),3592717384,PA,Luster Slug Scatter direction
+スラッグスキャッター(フォメル),4242543585,PA,Luster Slug Scatter direction hold
+スラッグスキャッター(フォメル),4242543394,PA,Luster Slug Scatter direction hold final hits
+ホローポイント(フォメル),3029011960,PA,Luster Hollow Point stationary
+ホローポイント(フォメル),98235939,PA,Luster Hollow Point stationary hold
+ホローポイント(フォメル),98208226,PA,Luster Hollow Point stationary hold final hits
+ホローポイント(フォメル),3198762365,PA,Luster Hollow Point direction
+ホローポイント(フォメル),2909644564,PA,Luster Hollow Point direction hold hits
+ホローポイント(フォメル),2909644629,PA,Luster Hollow Point direction hold final hits
+スラッシュフォール(フォメル),944554419,Special,Luster Slash Fall (Lu skill)
+スラッシュフォール(フォメル),1927014535,Special,Luster Slash Fall hold (Lu skill)
+スラッシュフォール(フォメル),2413146675,Special,Luster Slash Fall air sword hit (Lu skill)
+スラッシュライズ(フォメル),3645978248,Special,Luster Slash Rise (Lu skill)
+スラッシュライズ(フォメル),3084143207,Special,Luster Slash Rise hold (Lu skill)
+スラッシュフォール(フォメル),2095263219,Special,Luster Slash Fall hold no gear (Lu skill)
+スラッシュライズ(フォメル),2992516031,Special,Luster Slash Rise hold no gear (Lu skill)
+フレシェット(フォメル),1165627302,PA,Luster Flechette Fomel stationary hold no gear
+フレシェット(フォメル),869974062,PA,Luster Flechette direction hold hit no gear
+フレシェット(フォメル),869975021,PA,Luster Flechette direction hold final hit no gear
+ブランドエクステンション(フォメル),3491739985,PA,Luster Brand Extension stationary hold no gear hits
+ブランドエクステンション(フォメル),3491739792,PA,Luster Brand Extension stationary hold no gear final hits
+ブランドエクステンション(フォメル),2089638825,PA,Luster Brand Extension direction hold no gear hits
+ブランドエクステンション(フォメル),2089638888,PA,Luster Brand Extension direction hold no gear final hits
+スラッグスキャッター(フォメル),3300417638,PA,Luster Slug Scatter stationary hold no gear
+スラッグスキャッター(フォメル),2641984285,PA,Luster Slug Scatter direction hold hits no gear 
+スラッグスキャッター(フォメル),2641984348,PA,Luster Slug Scatter direction hold final hits no gear
+ホローポイント(フォメル),1339015403,PA,Luster Hollow Point stationary hold hits no gear
+ホローポイント(フォメル),1339015336,PA,Luster Hollow Point stationary hold final hits no gear
+ホローポイント(フォメル),3051384498,PA,Luster Hollow Point direction hold hits no gear
+ホローポイント(フォメル),3051384305,PA,Luster Hollow Point direction hold final hits no gear
+クイックスラッシュ(フォメル),2580374948,Special,Luster Quick Slash stationary (Lu skill)
+クイックスラッシュ(フォメル),3498754478,Special,Luster Quick Slash forward (Lu skill)
+クイックスラッシュ(フォメル),2547839819,Special,Luster Quick Slash right side (Lu skill)
+クイックスラッシュ(フォメル),1600689712,Special,Luster Quick Slash backwards (Lu skill)
+クイックスラッシュ(フォメル),1715505987,Special,Luster Quick Slash left side (Lu skill)
+クイックシュート(フォメル),1592168506,Special,Luster Quick Shoot (Lu skill)
+フォトンクラスタ(フォメル),2612099040,Special,Luster Photon Cluster (Lu skill)
+スタイルパージ(フォメル),3745407130,Special,Luster Style Purge Fomel hit (Lu skill)
+通常攻撃(Luザンディ),3292307674,Melee,Luster Zandi first normal attack
+通常攻撃(Luザンディ),1454771500,Melee,Luster Zandi second normal attack
+通常攻撃(Luザンディ),1192707064,Melee,Luster Zandi third normal attack 
+通常攻撃(Luザンディ),2748387183,Melee,Luster Zandi Extra Attack (Lu skill)
+通常攻撃(Luザンディ),4165096601,Melee,Luster normal attack hold
+通常攻撃(Luザンディ),3028393901,Melee,Luster normal attack hold no gear
+ステアタ(Luザンディ),4035900181,Melee,Luster Step Attack
+ステップガード(ザンディ),2785427875,Special,Luster Step Guard forward (Lu skill)
+ステップガード(ザンディ),1063829095,Special,Luster Step Guard backward (Lu skill)
+Luカウンター(ザンディ),3402465838,Special,Luster Step Counter (Lu skill)
+ステップスライド(ザンディ),2972788088,Special,Luster Step Slide forward (Lu skill)
+ステップスライド(ザンディ),3228155310,Special,Luster Step Slide sideways (Lu skill)
+ステップスライド(ザンディ),14025793,Special,Luster Step Slide backwards (Lu skill)
+イベイドシュート(ザンディ),3406326193,Special,Luster Weapon Action 
+エンハンスシュート(ザンディ),640472990,Special,Luster Weapon Action shoot up hit
+エンハンスシュート(ザンディ),349455247,Special,Luster Weapon Action charge 1
+エンハンスシュート(ザンディ),349455438,Special,Luster Weapon Action charge 2
+エンハンスシュート(ザンディ),349455117,Special,Luster Weapon Action charge 3
+通常攻撃(Luザンディ),4279228173,Special,Luster Weapon Action into Step Attack
+ザンディドッジアドバンス,2489726207,Special,Luster Zandi Dodge Advance follow-up attack
+フレシェット(ザンディ),996668125,PA,Luster Flechette stationary
+フレシェット(ザンディ),3892535876,PA,Luster Flechette stationary hold
+フレシェット(ザンディ),1236997706,PA,Luster Flechette direction
+フレシェット(ザンディ),3176867481,PA,Luster Flechette direction hold hit
+フレシェット(ザンディ),3176867807,PA,Luster Flechette direction hold final hit
+ブランドエクステンション(ザンディ),1678672178,PA,Luster Brand Extension stationary
+ブランドエクステンション(ザンディ),481069954,PA,Luster Brand Extension stationary hold hits
+ブランドエクステンション(ザンディ),481070019,PA,Luster Brand Extension stationary hold final hits
+ブランドエクステンション(ザンディ),3118883654,PA,Luster Brand Extension direction
+ブランドエクステンション(ザンディ),2835972717,PA,Luster Brand Extension direction hold hits
+ブランドエクステンション(ザンディ),2835972652,PA,Luster Brand Extension direction hold final hits
+スラッグスキャッター(ザンディ),2752658819,PA,Luster Slug Scatter stationary
+スラッグスキャッター(ザンディ),2814773680,PA,Luster Slug Scatter stationary hold
+スラッグスキャッター(ザンディ),3779802534,PA,Luster Slug Scatter direction
+スラッグスキャッター(ザンディ),1841756890,PA,Luster Slug Scatter direction hold hits
+スラッグスキャッター(ザンディ),1841757084,PA,Luster Slug Scatter direction hold final hits
+ホローポイント(ザンディ),3823914485,PA,Luster Hollow Point stationary
+ホローポイント(ザンディ),3218191989,PA,Luster Hollow Point stationary hold hits
+ホローポイント(ザンディ),3218192052,PA,Luster Hollow Point stationary hold final hits
+ホローポイント(ザンディ),865932846,PA,Luster Hollow Point direction
+ホローポイント(ザンディ),1406227085,PA,Luster Hollow Point direction hold hits
+ホローポイント(ザンディ),1406227276,PA,Luster Hollow Point direction hold final hits
+フレシェット(ザンディ),3808927040,PA,Luster Flechette Zandi stationary hold no gear
+フレシェット(ザンディ),1355552619,PA,Luster Flechette direction hold hit no gear
+フレシェット(ザンディ),1355552682,PA,Luster Flechette direction hold final hit no gear
+ブランドエクステンション(ザンディ),1084186869,PA,Luster Brand Extension stationary hold hits no gear
+ブランドエクステンション(ザンディ),1084186804,PA,Luster Brand Extension stationary hold final hits no gear
+ブランドエクステンション(ザンディ),914860715,PA,Luster Brand Extension direction hold hits no gear
+ブランドエクステンション(ザンディ),914860648,PA,Luster Brand Extension direction hold final hit no gear
+スラッグスキャッター(ザンディ),3225271342,PA,Luster Slug Scatter stationary hold no gear
+スラッグスキャッター(ザンディ),71419540,PA,Luster Slug Scatter direction hold hits no gear
+スラッグスキャッター(ザンディ),71417938,PA,Luster Slug Scatter direction hold final hits no gear
+ホローポイント(ザンディ),2554392033,PA,Luster Hollow Point stationary hold hits no gear
+ホローポイント(ザンディ),2554391840,PA,Luster Hollow Point stationary hold final hits no gear
+ホローポイント(ザンディ),2618945109,PA,Luster Hollow Point direction hold hits no gear
+ホローポイント(ザンディ),2618945044,PA,Luster Hollow Point direction hold final hits no gear
+スラッシュフォール(ザンディ),942756658,Special,Luster Slash Fall (Lu skill)
+スラッシュフォール(ザンディ),1165228084,Special,Luster Slash Fall hold (Lu skill)
+スラッシュフォール(ザンディ),1458283045,Special,Luster Slash Fall air sword hit (Lu skill)
+スラッシュライズ(ザンディ),1519968653,Special,Luster Slash Rise (Lu skill)
+スラッシュライズ(ザンディ),440065617,Special,Luster Slash Rise hold (Lu skill)
+スラッシュフォール(ザンディ),660935806,Special,Luster Slash Fall hold no gear (Lu skill)
+スラッシュライズ(ザンディ),3302003211,Special,Luster Slash Rise hold no gear (Lu skill)
+クイックスラッシュ(ザンディ),653852694,Special,Luster Quick Slash stationary (Lu skill)
+クイックスラッシュ(ザンディ),3847747973,Special,Luster Quick Slash forward (Lu skill)
+クイックスラッシュ(ザンディ),2370661157,Special,Luster Quick Slash right side (Lu skill)
+クイックスラッシュ(ザンディ),3496008220,Special,Luster Quick Slash backwards (Lu skill)
+クイックスラッシュ(ザンディ),1798013007,Special,Luster Quick Slash left side (Lu skill)
+クイックシュート(ザンディ),349461351,Special,Luster Quick Shoot (Lu skill)
+スタイルパージ(ザンディ),95182487,Special,Luster Style Purge Zandi hit (Lu skill)
+通常攻撃(Luバーラン),788266949,Melee,Luster Baran first normal attack
+通常攻撃(Luバーラン),1151798185,Melee,Luster Baran second normal attack
+通常攻撃(Luバーラン),2025835831,Melee,Luster Baran third normal attack
+通常攻撃(Luバーラン),4149676443,Melee,Luster Baran Extra Attack (Lu skill)
+通常攻撃(Luバーラン),3381273017,Special,Luster Baran first normal slash
+通常攻撃(Luバーラン),3381272952,Special,Luster Baran second normal slash
+通常攻撃(Luバーラン),3381273147,Special,Luster Baran third normal slash
+通常攻撃(Luバーラン),3381273082,Special,Luster Baran Extra Attack slash (Lu skill)
+通常攻撃(Luバーラン),3941083368,Melee,Luster normal attack hold
+通常攻撃(Luバーラン),2775227003,Melee,Luster normal attack hold no gear
+通常攻撃(Luバーラン),3363255252,Melee,Luster Baran first normal attack (Dodge Advance) (Lu skill)
+通常攻撃(Luバーラン),3363254293,Melee,Luster second normal attack (Dodge Advance) (Lu skill)
+通常攻撃(Luバーラン),3363254358,Melee,Luster third normal attack (Dodge Advance) (Lu skill)
+通常攻撃(Luバーラン),3363254423,Melee,Luster Extra Attack (Dodge Advance) (Lu skill)
+フォトンバレット,212749371,Special,Luster Photon Bullet
+ステアタ(Luバーラン),1527438262,Melee,Luster Step Attack
+ステップガード(バーラン),3070047115,Special,Luster Step Guard forward (Lu skill)
+ステップガード(バーラン),647085407,Special,Luster Step Guard backward (Lu skill)
+Luカウンター(バーラン),1754815403,Special,Luster Step Counter (Lu skill)
+ステップスライド(バーラン),1890244919,Special,Luster Step Slide forward (Lu skill)
+ステップスライド(バーラン),76288340,Special,Luster Step Slide sideways (Lu skill)
+ステップスライド(バーラン),861064826,Special,Luster Step Slide backwards (Lu skill)
+イベイドシュート(バーラン),3371673397,Special,Luster Weapon Action
+エンハンスシュート(バーラン),908877573,Special,Luster Weapon Action charge 1
+エンハンスシュート(バーラン),908877635,Special,Luster Weapon Action charge 2
+エンハンスシュート(バーラン),908877698,Special,Luster Weapon Action charge 3
+通常攻撃(Luバーラン),1605885859,Special,Luster Weapon Action into Step Attack
+フレシェット(バーラン),2256150497,PA,Luster Flechette stationary
+フレシェット(バーラン),2429721250,PA,Luster Flechette stationary hold
+フレシェット(バーラン),2064296513,PA,Luster Flechette direction
+フレシェット(バーラン),3740807337,PA,Luster Flechette direction hold hit
+フレシェット(バーラン),3740807535,PA,Luster Flechette direction hold final hit
+ブランドエクステンション(バーラン),2437641506,PA,Luster Brand Extension stationary
+ブランドエクステンション(バーラン),1571907633,PA,Luster Brand Extension stationary hold hits
+ブランドエクステンション(バーラン),1571907696,PA,Luster Brand Extension stationary hold final hits
+ブランドエクステンション(バーラン),503960224,PA,Luster Brand Extension direction
+ブランドエクステンション(バーラン),4097021015,PA,Luster Brand Extension direction hold hits
+ブランドエクステンション(バーラン),4097020950,PA,Luster Brand Extension direction hold final hits
+スラッグスキャッター(バーラン),903340224,PA,Luster Slug Scatter stationary
+スラッグスキャッター(バーラン),92602046,PA,Luster Slug Scatter stationary hold
+スラッグスキャッター(バーラン),214573341,PA,Luster Slug Scatter direction
+スラッグスキャッター(バーラン),1689998187,PA,Luster Slug Scatter direction hold hits
+スラッグスキャッター(バーラン),1689998250,PA,Luster Slug Scatter direction hold final hits
+ホローポイント(バーラン),848662808,PA,Luster Hollow Point stationary
+ホローポイント(バーラン),1216539342,PA,Luster Hollow Point stationary hold hits
+ホローポイント(バーラン),1216539151,PA,Luster Hollow Point stationary hold final hits
+ホローポイント(バーラン),3399722656,PA,Luster Hollow Point direction
+ホローポイント(バーラン),2201431563,PA,Luster Hollow Point direction hold hits
+ホローポイント(バーラン),2201431626,PA,Luster Hollow Point direction hold final hits
+フレシェット(バーラン),967387066,PA,Luster Flechette Baran stationary hold no gear
+フレシェット(バーラン),3396343796,PA,Luster Flechette direction hold hits no gear
+フレシェット(バーラン),3396343605,PA,Luster Flechette direction hold final hit no gear
+ブランドエクステンション(バーラン),3199894154,PA,Luster Brand Extension stationary hold hits no gear
+ブランドエクステンション(バーラン),3199894347,PA,Luster Brand Extension stationary hold final hits no gear
+ブランドエクステンション(バーラン),2116508968,PA,Luster Brand Extension direction hold hits no gear
+ブランドエクステンション(バーラン),2116509417,PA,Luster Brand Extension direction hold final hits no gear
+スラッグスキャッター(バーラン),3721984731,PA,Luster Slug Scatter stationary hold no gear
+スラッグスキャッター(バーラン),3379807863,PA,Luster Slug Scatter direction hold hits no gear
+スラッグスキャッター(バーラン),3379807798,PA,Luster Slug Scatter direction hold final hits no gear
+ホローポイント(バーラン),4080136121,PA,Luster Hollow Point stationary hold hits no gear
+ホローポイント(バーラン),4080136312,PA,Luster Hollow Point stationary hold final hits no gear
+ホローポイント(バーラン),717533710,PA,Luster Hollow Point direction hold hits no gear
+ホローポイント(バーラン),717533775,PA,Luster Hollow Point direction hold final hits no gear
+スラッシュフォール(バーラン),2040738961,Special,Luster Slash Fall (Lu skill)
+スラッシュフォール(バーラン),2530530277,Special,Luster Slash Fall hold (Lu skill)
+スラッシュフォール(バーラン),3614105314,Special,Luster Slash Fall air sword hit (Lu skill)
+スラッシュライズ(バーラン),1593374957,Special,Luster Slash Rise (Lu skill)
+スラッシュライズ(バーラン),185538533,Special,Luster Slash Rise hold (Lu skill)
+スラッシュフォール(バーラン),498703720,Special,Luster Slash Fall hold no gear (Lu skill)
+スラッシュライズ(バーラン),698077075,Special,Luster Slash Rise hold no gear (Lu skill)
+クイックスラッシュ(バーラン),1999157312,Special,Luster Quick Slash stationary (Lu skill)
+クイックスラッシュ(バーラン),1096591425,Special,Luster Quick Slash forward (Lu skill)
+クイックスラッシュ(バーラン),1210048760,Special,Luster Quick Slash right side (Lu skill)
+クイックスラッシュ(バーラン),1535197318,Special,Luster Quick Slash backwards (Lu skill)
+クイックスラッシュ(バーラン),915528908,Special,Luster Quick Slash left side (Lu skill)
+クイックシュート(バーラン),908867453,Special,Luster Quick Shoot (Lu skill)
+スタイルパージ(バーラン),877930414,Special,Luster Style Purge Baran hit (Lu skill)
+通常攻撃(Lu),246459449,Melee,Luster non-element first normal attack
+通常攻撃(Lu),1124900582,Melee,Luster non-element second normal attack
+通常攻撃(Lu),1101154530,Melee,Luster non-element third normal attack
+通常攻撃(Lu),1244140660,Melee,Luster non-element Extra Attack (Lu skill)
+通常攻撃(Lu),982712511,Melee,Luster normal attack hold
+通常攻撃(Lu),1298735458,Melee,Luster normal attack hold no gear
+ステアタ(Lu),3892948221,Melee,Luster Step Attack
+ステップガード(Lu),2480928358,Special,Luster Step Guard forward (Lu skill)
+ステップガード(Lu),3544032203,Special,Luster Step Guard backward (Lu skill)
+Luカウンター,380547910,Special,Luster Step Counter (Lu skill)
+ステップスライド,4065806309,Special,Luster Step Slide forward (Lu skill)
+ステップスライド,850061164,Special,Luster Step Slide sideways (Lu skill)
+ステップスライド,1000184235,Special,Luster Step Slide backwards (Lu skill)
+イベイドシュート,240252326,Special,Luster Weapon Action
+エンハンスシュート,2558880803,Special,Luster Weapon Action hold
+フレシェット,596161793,PA,Luster Flechette stationary
+フレシェット,2092584073,PA,Luster Flechette stationary hold
+フレシェット,2975705021,PA,Luster Flechette direction
+フレシェット,1663883291,PA,Luster Flechette direction hold hit
+フレシェット,1663883482,PA,Luster Flechette direction hold final hit
+ブランドエクステンション,3001853672,PA,Luster Brand Extension stationary
+ブランドエクステンション,330430310,PA,Luster Brand Extension stationary hold hits
+ブランドエクステンション,330430247,PA,Luster Brand Extension stationary hold final hits
+ブランドエクステンション,622623242,PA,Luster Brand Extension direction
+ブランドエクステンション,4039854532,PA,Luster Brand Extension direction hold hits
+ブランドエクステンション,4039854469,PA,Luster Brand Extension direction hold final hits
+スラッグスキャッター,4066883312,PA,Luster Slug Scatter stationary
+スラッグスキャッター,1291450859,PA,Luster Slug Scatter stationary hold
+スラッグスキャッター,3272907865,PA,Luster Slug Scatter direction
+スラッグスキャッター,1685497175,PA,Luster Slug Scatter direction hold hits
+スラッグスキャッター,1685497108,PA,Luster Slug Scatter direction hold final hits
+ホローポイント,2680298506,PA,Luster Hollow Point stationary
+ホローポイント,1165121417,PA,Luster Hollow Point stationary hold hits
+ホローポイント,1165118285,PA,Luster Hollow Point stationary hold final hits
+ホローポイント,3500311290,PA,Luster Hollow Point direction
+ホローポイント,619968869,PA,Luster Hollow Point direction hold hits
+ホローポイント,619962881,PA,Luster Hollow Point direction hold final hits
+フレシェット,4181296419,PA,Luster Flechette non-element stationary hold no gear
+フレシェット,1150187886,PA,Luster Flechette direction hold hit no gear
+フレシェット,1150186814,PA,Luster Flechette direction hold final hit no gear
+ブランドエクステンション,3548536742,PA,Luster Brand Extension stationary hold hits no gear
+ブランドエクステンション,3548536679,PA,Luster Brand Extension stationary hold final hit no gear
+ブランドエクステンション,139846536,PA,Luster Brand Extension direction hold hits no gear
+ブランドエクステンション,139846217,PA,Luster Brand Extension direction hold final hit no gear
+スラッグスキャッター,734319635,PA,Luster Slug Scatter stationary hold no gear
+スラッグスキャッター,1552123291,PA,Luster Slug Scatter direction hold hits no gear
+スラッグスキャッター,1552123482,PA,Luster Slug Scatter direction hold final hits no gear
+ホローポイント,2934430031,PA,Luster Hollow Point stationary hold hits no gear
+ホローポイント,2934429966,PA,Luster Hollow Point stationary hold final hits no gear
+ホローポイント,508166378,PA,Luster Hollow Point direction hold hits no gear
+ホローポイント,508167726,PA,Luster Hollow Point direction hold final hits no gear
+スラッシュフォール,1197374983,Special,Luster Slash Fall (Lu skill)
+スラッシュフォール,2198880678,Special,Luster Slash Fall hold (Lu skill)
+スラッシュフォール,2557185610,Special,Luster Slash Fall air sword hit (Lu skill)
+スラッシュライズ,1395796309,Special,Luster Slash Rise (Lu skill)
+スラッシュライズ,53211277,Special,Luster Slash Rise hold (Lu skill)
+スラッシュフォール,1876898478,Special,Luster Slash Fall hold no gear (Lu skill)
+スラッシュライズ,3724401130,Special,Luster Slash Rise hold no gear (Lu skill)
+クイックスラッシュ,1546305539,Special,Luster Quick Slash stationary (Lu skill)
+クイックスラッシュ,2097365226,Special,Luster Quick Slash forward (Lu skill)
+クイックスラッシュ,2665468148,Special,Luster Quick Slash right side (Lu skill)
+クイックスラッシュ,1329182457,Special,Luster Quick Slash backwards (Lu skill)
+クイックスラッシュ,606882270,Special,Luster Quick Slash left side (Lu skill)
+LTF,30537184,Special,Luster Luster Time explosion (Lu skill)
+LTF,1972006612,Special,Luster Luster Time first hit (Lu skill)
+LTF,1972006615,Special,Luster Luster Time first multiple hits (Lu skill)
+LTF,1972006614,Special,Luster Luster Time second multiple hits (Lu skill)
+LTF,1972006609,Special,Luster Luster Time final hit (Lu skill)
